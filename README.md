@@ -1,3 +1,2 @@
-# Java-Web-Server
-
-A basic HTTP 1.0 Server that handles GET, POST, and HEAD requests
+# http-server
+Basic http server created in java using sockets. Handles basic http requests.
